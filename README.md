@@ -22,7 +22,7 @@ My focus is on exploring how **Machine Learning, Image Processing, and Computati
 <a href="https://www.linkedin.com/in/shehan-piyumantha-900640374" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://fb.com/shehan.piyumantha" target="blank">
+<a href=["https://fb.com/shehan.piyumantha"](https://www.facebook.com/shehan.piyumantha.7?mibextid=rS40aB7S9Ucbxw6v) target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
 </p>
