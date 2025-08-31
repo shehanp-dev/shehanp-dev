@@ -13,8 +13,8 @@ My focus is on exploring how **Machine Learning, Image Processing, and Computati
 
 ### 📫 How to Reach Me  
 - 📧 **Email**: [shehanpiyumantha310@gmail.com](mailto:shehanpiyumantha310@gmail.com)  
-- 🔗 **LinkedIn**: [Shehan Piyumantha](https://www.linkedin.com/in/shehan-piyumantha-900640374)  
--📖  **Medium**:[Shehan Piyumantha](https://medium.com/@shehanpiyumantha310)
+- 🔗 **LinkedIn**: [Shehan Piyumantha](https://www.linkedin.com/in/shehan-piyumantha-900640374)
+- 📖  **Medium**:[Shehan Piyumantha](https://medium.com/@shehanpiyumantha310)
 ---
 
 ### 🌍 Connect with Me  
